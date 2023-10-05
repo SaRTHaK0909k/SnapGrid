@@ -71,4 +71,10 @@ export const links = [
     description:
       "<p>Religion provides spiritual guidance and a sense of purpose for billions around the globe. It's a source of strength, faith, and community. Through rituals, teachings, and beliefs, people find meaning in their lives and a connection to the divine.<p>",
   },
+  {
+    url: 'https://images.unsplash.com/photo-1532375810709-75b1da00537c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2952&q=80',
+    title: 'India',
+    description:
+      "<p>India, located in South Asia, is a country of extraordinary diversity, both culturally and geographically. With a rich history spanning thousands of years, it has been a cradle of civilizations, empires, and religions. Today, India stands as the world's largest democracy, characterized by a vibrant tapestry of languages, religions, and traditions. Its landscape ranges from the towering Himalayas in the north to lush tropical forests and pristine beaches in the south. India is renowned for its contributions to mathematics, astronomy, and literature, with ancient texts like the Vedas and the Upanishads forming the foundation of philosophical thought. Its cultural heritage, showcased in festivals like Diwali and Holi, is celebrated worldwide. Moreover, Indian cuisine, known for its rich flavors and diverse regional dishes, has gained global popularity. Despite its challenges, India continues to evolve as a dynamic and influential player on the global stage.<p>",
+  },
 ];
